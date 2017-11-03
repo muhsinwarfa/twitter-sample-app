@@ -1,0 +1,24 @@
+{
+  "name": "twitter-sample-app",
+  "version": "1.0.0",
+  "description": "See person who you follow, that doesnt follow back",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhsinwarfa/twitter-sample-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "follow",
+    "follower"
+  ],
+  "author": "muhsin warfa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhsinwarfa/twitter-sample-app/issues"
+  },
+  "homepage": "https://github.com/muhsinwarfa/twitter-sample-app#readme"
+}
