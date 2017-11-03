@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/muhsinwarfa/twitter-sample-app/issues"
   },
-  "homepage": "https://github.com/muhsinwarfa/twitter-sample-app#readme"
+  "homepage": "https://github.com/muhsinwarfa/twitter-sample-app#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
